@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HedgeMaze bad maze file" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="maze.PotOfGold" />
+    <module name="cs2-20215-lab6-hedgemaze" />
+    <option name="PROGRAM_PARAMETERS" value="data/mazeX.txt" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
